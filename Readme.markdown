@@ -50,7 +50,7 @@ Reactions may be played in response to the trigger at any time. Using the reacti
 Taking an additional action must gives the performing character the ability to perform an addition action and must be performed by that character.
 
 ### Zones
-Home: ALl characters start in the home. This is a safe territory in which no enemy units can move to, and has no adjacent locations.
+Home: All characters start in the home. This is a safe territory in which no enemy units can move to, and has no adjacent locations.
 
 Friendly Objective: Your current objective. You cannot raze this objective. Adjacent to the center objective.
 
@@ -83,55 +83,55 @@ Additionally, if a player ever has zero cards left in his deck, that player lose
 
 characters: 
 
-cost: 1-5, players start out with 10 points in characters
-speed: 1-10
-health: 1-5
-energy: 1-6
+    cost: 1-5, players start out with 10 points in characters
+    speed: 1-10
+    health: 1-5
+    energy: 1-6
 
 
-Keywords
+    Keywords
 
-    Profession - This is a generic keyword. Used for items
-        Rouge
-        Fighter
-        Mage
+        Profession - This is a generic keyword. Used for items
+            Rouge
+            Fighter
+            Mage
 
-    Elemental - Objectives and items tie use elements to restrict
-        Fire - Aggressive, Pushy
-        Ice - Passively Defensive (increase cost, decrease options)
-        Void - Introspective, odd (ninja)
-        Earth - Actively Defensive (paladin)
-        Air - Flow, Movement ()
+        Elemental - Objectives and items tie use elements to restrict
+            Fire - Aggressive, Pushy
+            Ice - Passively Defensive (increase cost, decrease options)
+            Void - Introspective, odd (ninja)
+            Earth - Actively Defensive (paladin)
+            Air - Flow, Movement ()
 
-    Skills - This is the action targeting for each skill
-        Magic - Little bit of everything
-        Stealth - Special in PK
-        Melee - Raze it to the ground
-        Ranged - PK, adjacent battlefields
-        Guardian - Absorb damage, shields
-        Cavalry - Trample, move
-        Healing - uh, healing
+        Skills - This is the action targeting for each skill
+            Magic - Little bit of everything
+            Stealth - Special in PK
+            Melee - Raze it to the ground
+            Ranged - PK, adjacent battlefields
+            Guardian - Absorb damage, shields
+            Cavalry - Trample, move
+            Healing - uh, healing
 
-Objectives
-health: 10-20
-text: These will provide a bonus/penalty to people nearby.
+    Objectives
+    health: 10-20
+    text: These will provide a bonus/penalty to people nearby.
 
-### Other Cards
-20 items
-    1 per class, and 2 neutral in each
-    5 Fire
-    5 Ice
-    5 Earth
-    5 Air
-    5 Void
+    ### Other Cards
+    20 items
+        1 per class, and 2 neutral in each
+        5 Fire
+        5 Ice
+        5 Earth
+        5 Air
+        5 Void
 
-50 Actions
-    15 Melee
-    10 Magic
-    9 Stealth
-    8 Ranged
-    3 Guardian
-    3 Cavalry
-    3 Healing
+    50 Actions
+        15 Melee
+        10 Magic
+        9 Stealth
+        8 Ranged
+        3 Guardian
+        3 Cavalry
+        3 Healing
 
-        
+            
