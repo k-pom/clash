@@ -12,8 +12,8 @@
 ### Phases
 
 1. Start of Turn
-    1.1 Each character gains 1 energy (remove a blue counter)
-    1.2 Start of Turn Effects trigger
+    1.1. Each character gains 1 energy (remove a blue counter)
+    1.2. Start of Turn Effects trigger
 2. Movement
     2.1 Beginning with the lowest speed character (active player chooses in ties), each character may move. Valid moves are:
         * Any objective to Home
