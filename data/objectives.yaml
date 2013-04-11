@@ -1,0 +1,51 @@
+objectives:
+    -
+        name: The Dragon's Cave
+        health: 15
+        element: Earth
+        text: Negate the first point of damage each turn to characters at this location.
+    -
+        name: The Castle
+        element: Earth
+        health: 20
+        text: At the start of each turn, each player may heal 1 Earth character.
+    -
+        name: The Sacred Grove
+        element: Air
+        health: 12
+        text: Air characters can move to this objective from any objective.
+    -
+        name: The Hallowed Plains
+        element: Air
+        health: 15
+        text: The last character that moves in the movement phase takes a wound.
+    -
+        name: The Fire Mountain
+        element: Fire
+        health: 11
+        text: Each character that is not opposed after the momement phase takes a wound.
+    -
+        name: The River of Lava
+        element: Fire
+        health: 11
+        text: After the movement phase, Fire characters gain 1 energy if they are opposed
+    -
+        name: The Glacier
+        element: Ice
+        health: 14
+        text: Non-Ice characters at this location lose 1 energy.
+    -
+        name: The Frozen Peak
+        element: Ice
+        health: 12
+        text: Once per turn, after this objective is damaged, wound the character that damaged it.
+    -
+        name: Nowhere
+        element: Void
+        health: 11
+        text: Characters cannot move to the objective except from their home. 
+    -
+        name: Everywhere
+        element: Void
+        health: 15
+        text: After the move phase each player may wound one of their void characters to draw a card.

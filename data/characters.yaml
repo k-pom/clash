@@ -1,0 +1,319 @@
+characters:
+    -
+        name: The Barbarian   
+        cost: 2
+        speed: 3
+        health: 4
+        energy: 2
+        class: Fighter
+        element: Fire
+        skills:
+            - Melee
+
+    -
+        name: The Hussar
+        cost: 4
+        speed: 9
+        health: 3
+        energy: 2
+        class: Fighter
+        element: Air
+        skills:
+            - Melee
+            - Cavalry
+
+    -
+        name: The Swashbuckler
+        cost: 2
+        speed: 5
+        health: 3
+        energy: 2
+        class: Fighter
+        element: Air
+        skills:
+            - Melee
+
+    -
+        name: The Paladin
+        cost: 3
+        speed: 2
+        health: 5
+        energy: 3
+        class: Fighter
+        element: Earth
+        skills:
+            - Melee
+            - Guardian
+
+    -
+        name: The Samurai
+        cost: 2
+        speed: 6
+        health: 3
+        energy: 2
+        class: Fighter
+        element: Ice
+        skills:
+            - Melee
+    - 
+        name: The Soldier
+        cost: 1
+        speed: 3
+        health: 3
+        energy: 2
+        class: Fighter
+        element: Earth
+        skills:
+            - Melee
+            - Guardian
+
+    -
+        name: The Sorcerer
+        cost: 2
+        speed: 3
+        health: 3
+        energy: 4
+        class: Mage
+        element: Fire
+        skills:
+            - Magic
+
+    -
+        name: The Warlock
+        cost: 3
+        speed: 4
+        health: 3
+        energy: 5
+        class: Mage
+        element: Void
+        skills:
+            - Magic
+
+    -
+        name: The Conjurer
+        cost: 3
+        speed: 5
+        health: 3
+        energy: 4
+        class: Mage
+        element: Air
+        skills:
+            - Magic
+
+    -
+        name: The Wizard
+        cost: 1
+        speed: 1
+        health: 3
+        energy: 3
+        class: Mage
+        element: Void
+        skills:
+            - Magic
+
+    -
+        name: The Druid
+        cost: 2
+        speed: 4
+        health: 4
+        energy: 3
+        class: Mage
+        element: Earth
+        skills:
+            - Guardian
+            - Magic
+            - Healing
+
+    -
+        name: The Necromancer
+        cost: 4
+        speed: 4
+        health: 4
+        energy: 4
+        class: Mage
+        element: Void
+        skills:
+            - Magic
+
+    -
+        name: The Thief
+        cost: 2
+        speed: 6
+        health: 3
+        energy: 3
+        class: Rouge
+        element: Air
+        skills:
+            - Stealth
+            - Melee
+
+    -
+        name: The Assassin
+        cost: 4
+        speed: 7
+        health: 4
+        energy: 4
+        class: Rouge
+        element: Ice
+        skills:
+            - Stealth
+            - Ranged
+
+    -
+        name: The Ninja
+        cost: 2
+        speed: 6
+        health: 3
+        energy: 3
+        class: Rouge
+        element: Void
+        skills:
+            - Stealth
+            - Ranged
+
+    -
+        name: The Pirate
+        cost: 1
+        speed: 4
+        health: 3
+        energy: 2
+        class: Rouge
+        element: Fire
+        skills:
+            - Melee
+
+    -
+        name: The Scout
+        cost: 1
+        speed: 9
+        health: 3
+        energy: 1
+        class: Rouge
+        element: Air
+        skills:
+            - Stealth
+            - Healing
+            - Ranged
+            - Cavalry
+
+    -
+        name: The Priest
+        cost: 2
+        speed: 3
+        health: 4
+        energy: 4
+        class: Mage
+        element: Ice
+        skills:
+            - Magic
+            - Healing
+
+    -
+        name: The Templar
+        cost: 4
+        speed: 2
+        health: 4
+        energy: 4
+        class: Fighter
+        element: Earth
+        skills:
+            - Melee
+            - Guardian
+            - Magic
+            - Cavalry
+
+    -
+        name: The Ice Mage
+        cost: 2
+        speed: 3
+        health: 3
+        energy: 3
+        class: Mage
+        element: Ice
+        skills:
+            - Magic
+
+    -
+        name: The Ranger
+        cost: 3
+        speed: 4
+        health: 4
+        energy: 3
+        class: Fighter
+        element: Void
+        skills:
+            - Melee
+            - Ranged
+
+    -
+        name: The Trapper
+        cost: 2
+        speed: 3
+        health: 3
+        energy: 2
+        class: Rouge
+        element: Earth
+        skills:
+            - Ranged
+
+    -
+        name: The Hunter
+        cost: 2
+        speed: 4
+        health: 4
+        energy: 2
+        class: Rouge
+        element: Earth
+        skills:
+            - Ranged
+            - Stealth
+
+    -
+        name: The Bard
+        cost: 2
+        speed: 4
+        health: 2
+        energy: 5
+        class: Rouge
+        element: Air
+        skills:
+            - Magic
+            - Healing
+
+    -
+        name: The Monk
+        cost: 2
+        speed: 4
+        health: 3
+        energy: 2
+        class: Fighter
+        element: Void
+        skills:
+            - Stealth
+            - Melee
+
+    -
+        name: The Medic
+        cost: 1
+        speed: 3
+        health: 2
+        energy: 4
+        class: Rouge
+        element: Ice
+        skills:
+            - Healing
+
+    - 
+        name: The Mercenary
+        cost: 3
+        speed: 3
+        health: 2
+        energy: 1
+        class: Fighter
+        element: ""
+        skills: 
+            - Healing
+            - Cavalry
+            - Melee
+            - Ranged
+

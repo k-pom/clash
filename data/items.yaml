@@ -1,0 +1,125 @@
+items:
+    -
+        name: Healing Potion
+        type: Neutral
+        text: Discard this to heal character up to 3 times
+    -
+        name: Energy Potion
+        type: Neutral
+        text: "Discard this to regain up to (1) (1) (1)"
+    -
+        name: Speed Potion
+        type: Neutral
+        text: Discard this to move to any location. Use only during the movement phase
+    -
+        name: Knowledge Potion
+        type: Neutral
+        text: Discard this to draw 2 cards
+    -
+        name: Ice Ring
+        type: Ice
+        energy: +1
+        text: 
+    -
+        name: Frost Blade
+        type: Ice
+        text: "(1) (1) : Destroy an opposing item. Gain (1) if it was a fire item."
+    -
+        name: Shield of Ice
+        type: Ice Warrior
+        health: +1
+        text:
+    -
+        name: Ice Rod
+        type: Ice Mage
+        text: Magic actions that target this character cost an extra (1) 
+    -
+        name: Frozen Daggers
+        type: Ice Rouge
+        text: "(1) (1): Wound a character."
+    -
+        name: Fire Ring
+        type: Fire
+        energy: +1
+        text:
+    -
+        name: Molten Staff
+        type: Fire
+        energy: +2
+        text: After the movement phase if this characer is unopposed, loose (1) (1) (1)
+    -
+        name: Flaming Sword
+        type: Fire Warrior
+        text: After this character kills another character, Raze 3
+    -
+        name: Fireball Scroll
+        type: Fire Mage
+        text: "(1): Raze 3"
+    -
+        name: Flaming Arrows
+        type: Fire Rouge
+        text: "(1): Deal one damage to a character or Raze 2"
+    -
+        name: Earth Ring
+        type: Earth
+        energy: +1
+        text:
+    -
+        name: Earthen Hammer
+        type: Earth
+        text: "(1) (1): Deal one damage to each other character at this objective and Raze 1"
+    -
+        name: Earth's Armor
+        type: Earth Warrior
+        text: After another character at this objective dies, heal this character up to 3 times
+    -
+        name: Tome of the World
+        type: Earth Mage
+        text: "(1) (1): Each other character at this location cannot play Stealth actions."
+    -
+        name: Boots of Earth
+        type: Earth Rouge
+        text: After this objective is Razed, you may heal this character.
+    -
+        name: Air Ring
+        type: Air
+        energy: +1
+        text:
+    -
+        name: Bracers of Wind
+        type: Air
+        text: After this character takes an action, move him to another location
+    -
+        name: Blade of the Heavens
+        type: Air Warrior
+        text: After a character moves to this location, pay (1) to have that character lose (1)
+    -
+        name: Robes of the Wind
+        type: Air Mage
+        health: +1
+        energy: +1
+        text:
+    -
+        name: Gauntlets of Air
+        type: Air Rouge
+        text: Once per turn, After a player stashes an item, draw a card
+    -
+        name: Amulet of Nonexistence
+        type: Void
+        text: "(1): Target player draws a card."
+    -
+        name: Amulet of Nothing
+        type: Void
+        text: "(1): Target player discards a card."
+    -
+        name: Amulet of Nihility
+        type: Void
+        text: "(1): Target player wounds one of his characters."
+    -
+        name: Amulet of Emptiness
+        type: Void
+        text: "(1): Target player heals a character."
+    -
+        name: Amulet of the Void
+        type: Void
+        text: All players hand sizes are increased by one. 

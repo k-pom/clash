@@ -1,0 +1,251 @@
+actions:
+    -
+        name: Murderous Command
+        energy: 3
+        type: Magic
+        text: Wound a character twice. That character may pay (1) to negate one wound
+    -
+        name: Smite
+        energy: 2
+        type: Magic
+        text: Wound a character.
+    -
+        name: Revoke
+        energy: 1
+        type: Magic
+        text: "Reaction: Negate a Magic action. "
+    -
+        name: Inspire Fear
+        energy: 3
+        type: Magic
+        text: Target character cannot perform actions this turn
+    -
+        name: Psychic Shock
+        energy: 2
+        type: Magic
+        text: Characters at this location cannot perform actions this turn
+    -
+        name: Fireball
+        energy: 3
+        type: Magic
+        text: Raze 5 and wound each character at this location
+    -
+        name: Magic Missile
+        energy: 1
+        type: Magic
+        text: Target player wounds one of his or her characters
+    -
+        name: Polymorph
+        energy: 1
+        type: Magic
+        text: Target character gains all keywords until end of turn. Take an additional action.
+    -
+        name: Mana Drain
+        energy: 0
+        type: Magic
+        text: Pay X to make a character lose X energy
+    -
+        name: Smash
+        energy: 1
+        type: Melee
+        text: Raze 3 or wound a character
+    -
+        name: Burn
+        energy: 1
+        type: Melee
+        text: Raze 5
+    -
+        name: Double Strike
+        energy: 2
+        type: Melee
+        text: Raze 2 and wound a character. 
+    -
+        name: Duel
+        energy: 2
+        type: Melee
+        text: Wound an opposing character with lower base health. That character may not take actions this turn. 
+    -
+        name: Fight without Steel
+        energy: 1
+        type: Melee
+        text: If this character is unequipped, wound an unequipped character twice
+    -
+        name: Shout
+        energy: 1
+        type: Melee
+        text: Raze 1 and heal this character
+    -
+        name: Clash of Champions
+        energy: 2
+        type: Melee
+        text: Wound a character with lower base health. You may destroy one of his items
+    -
+        name: Spinning Heel Kick
+        energy: 0
+        type: Melee
+        text: Raze 2. This character may take an additional action.
+    -
+        name: Charge
+        energy: 1
+        type: Melee
+        text: If this character moved this turn, raze 2 and wound a character
+    -
+        name: Powerful Blow
+        energy: 2
+        type: Melee
+        text: If this character is equipped, Raze 7
+    -
+        name: Furious Assault
+        energy: 
+        type: Melee
+        text: 
+    -
+        name: Headbutt
+        energy: 2
+        type: Melee
+        text: Wound this character to wound an opposing character. That character may not take actions this turn. 
+    -
+        name: Cast aside the Weak
+        energy: 1
+        type: Melee
+        text: Move an opposing character home. Take an additional action.
+    -
+        name: Demolish 
+        energy: 1
+        type: Melee
+        text: Raze 3 and draw a card
+    -
+        name: Topple
+        energy: 0
+        type: Melee
+        text: Discard the top card of your deck. Raze X where x is its energy cost. Take an additional action.
+    -
+        name: Ambush
+        energy: 1
+        type: Stealth
+        text: "Reaction: After a character moves to this location wound him."
+    -
+        name: Hidden Weapons
+        energy: 1
+        type: Stealth
+        text: Play a weapon from your hand onto this character. Take an additional action
+    -
+        name: Hit from Behind
+        energy: 2
+        type: Stealth
+        text: Wound a character twice, or 3 times if he is the only opposing character at this location
+    -
+        name: Crippling Cut
+        energy: 2
+        type: Stealth
+        text: Target character may not move (this effect lasts until he is killed)
+    -
+        name: Perfect Strike
+        energy: 3
+        type: Stealth
+        text: Destroy target character with a wound.
+    -
+        name: Lay in wait
+        energy: 2
+        type: Stealth
+        text: "Reaction: After the movement phase, move to a location where you do not control any units. Take an additional action."
+    -
+        name: Hasty Retreat
+        energy: 1
+        type: Stealth
+        text: Move all characters at this location home
+    -
+        name: Well Practiced Tricks
+        energy: 2
+        type: Stealth
+        text: Take an action from your discard pile
+    -
+        name: Reconnaissance
+        energy: 1
+        type: Stealth
+        text: Target player discards 2 cards at random. You chose two card in their discard pile to put into their hands.
+    -
+        name: Arrow from the woods
+        energy: 2
+        type: Ranged
+        text: Wound a character at an adjacent location.
+    -
+        name: Impossible Shot
+        energy: 2
+        type: Ranged
+        text: Wound a character at home.
+    -
+        name: Burn it down
+        energy: 1
+        type: Ranged
+        text: Raze 4. This may target an adjacent location.
+    -
+        name: Not Beyond my Reach
+        energy: 4
+        type: Ranged
+        text: Wound a character at any location
+    -
+        name: Perfect Aim
+        energy: 1
+        type: Ranged
+        text: After this character wounds a character at a different location, wound him again. Take an additional action.
+    -
+        name: Raining Death
+        energy: 2
+        type: Ranged
+        text: Each character at an adjacent location takes one wound.
+    -
+        name: Storm of Arrows 
+        energy: 1
+        type: Ranged
+        text: Wound a character at this location twice
+    -
+        name: Riding on the Wind
+        energy: 1
+        type: Ranged
+        text: "Reaction: After this character is targeted by an action, negate its effects. "
+    -
+        name: Protect
+        energy: 0
+        type: Guardian
+        text: Target a character. Whenever another action targets that character, it targets this character instead.
+    -
+        name: Guard
+        energy: 0
+        type: Guardian
+        text: Target a character. After that character is wounded, destroy the character that wounded it.
+    -
+        name: Stand Watch
+        energy: 0
+        type: Guardian
+        text: Whenever this objective is razed, wound this character to negate 2 of that damage.
+    -
+        name: Mounted Assault
+        energy: 2
+        type: Cavalry
+        text: Wound each opposing non-cavalry unit at this location if you moved this turn.
+    -
+        name: Ride Swiftly
+        energy: 2
+        type: Cavalry
+        text: Move this character to an adjacent location. Take an additional action that does not wound a character.
+    -
+        name: Heroic Rescue
+        energy: 3
+        type: Cavalry
+        text: Move this character and another character (at any location) home. 
+    -
+        name: Healing Salve
+        energy: 0
+        type: Healer
+        text: Heal a character up to 3 times.
+    -
+        name: Bind and Bandage
+        energy: 1
+        type: Healer
+        text: Heal a character twice. Negate the next point of damage to that character. 
+    -
+        name: Refresh
+        energy: 1
+        type: Healer
+        text: Target character gains (1) (1) (1) and is healed once. 
