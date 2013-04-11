@@ -32,7 +32,7 @@
         5.1 Each character that was killed the previous turn (not this one) is placed in the players home. 
 
 
-### Actions 
+### Actions
 
     Each character can perform ONE action per turn. Those actions are:
         * Play an action card
