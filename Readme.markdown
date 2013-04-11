@@ -34,19 +34,19 @@
 
 ### Actions 
 
-Each character can perform ONE action per turn. Those actions are:
-    * Play an action card
-    * Use an ability on an item with a pre-stated cost such as (1): draw a card. (potions do not take an action window to use, and can be used at any time)
-    * If a character is at home, you may equip an item from your hand
-    * Raze 2
+    Each character can perform ONE action per turn. Those actions are:
+        * Play an action card
+        * Use an ability on an item with a pre-stated cost such as (1): draw a card. (potions do not take an action window to use, and can be used at any time)
+        * If a character is at home, you may equip an item from your hand
+        * Raze 2
 
-To play an action card, the performing personality much match all skills on the card. If all skills match, the player places energy tokens on his character equal to the cost of the action. A player can never have more energy tokens than their energy stat (blue). If they do not have energy remaining, the action cannot be played. 
+    To play an action card, the performing personality much match all skills on the card. If all skills match, the player places energy tokens on his character equal to the cost of the action. A player can never have more energy tokens than their energy stat (blue). If they do not have energy remaining, the action cannot be played. 
 
-To equip an item, the personality must match all classes and elemental keywords. 
+    To equip an item, the personality must match all classes and elemental keywords. 
 
-Reactions may be played in response to the trigger at any time. Using the reaction will consume the characters action for this turn, and cannot be performed if the character has already performed an action.
+    Reactions may be played in response to the trigger at any time. Using the reaction will consume the characters action for this turn, and cannot be performed if the character has already performed an action.
 
-Taking an additional action must gives the performing character the ability to perform an addition action and must be performed by that character.
+    Taking an additional action must gives the performing character the ability to perform an addition action and must be performed by that character.
 
 ### Zones
     Home: ALl characters start in the home. This is a safe territory in which no enemy units can move to, and has no adjacent locations.
