@@ -15,21 +15,22 @@
     1. Each character gains 1 energy (remove a blue counter)
     2. Start of Turn Effects trigger
 2. Movement
-    2.1 Beginning with the lowest speed character (active player chooses in ties), each character may move. Valid moves are:
+    1. Beginning with the lowest speed character (active player chooses in ties), each character may move. Valid moves are:
         * Any objective to Home
         * Home to any objective
         * Center objective to any objective
         * Any objective to center objective
-    2.2 After movement phase triggers
+    2. After movement phase triggers
 3. Skirmish
-    3.1 Beginning with the highest speed, create an action step for that speed
-        3.1.1 Starting with the active player (and alternating) each character with a speed equal to or higher than the current step may perform one action (assuming he has not already done so). This allows a high speed character to pass and resume his action whenever he desires at a lower speed step.
-    3.2 Once all characters have passed at speed 1, the skirmish phase is over
+    1. Beginning with the highest speed, create an action step for that speed
+        
+        Starting with the active player (and alternating) each character with a speed equal to or higher than the current step may perform one action (assuming he has not already done so). This allows a high speed character to pass and resume his action whenever he desires at a lower speed step.
+    2. Once all characters have passed at speed 1, the skirmish phase is over
 4. Draw
-    4.1 Each player may discard any number of cards
-    4.2 Each player draws up to 5 cards.
+    1. Each player may discard any number of cards
+    2. Each player draws up to 5 cards.
 5 Respawn
-    5.1 Each character that was killed the previous turn (not this one) is placed in the players home. 
+    Each character that was killed the previous turn (not this one) is placed in the players home. 
 
 
 ### Actions
